@@ -1,0 +1,6 @@
+{
+  "name": "st",
+  "language": "javascript",
+  "manager": "npm",
+  "prefix": "!"
+}

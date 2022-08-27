@@ -1,0 +1,55 @@
+{
+    "channel": {
+        "ticket": "41545464654",
+        "teste": "849734385351393280",
+        "auth": "1515412351351",
+        "sorteio": "849408174314487849",
+        "logmsg": "16515135131",
+        "transcript": "46516516514",
+        "enquete": "465435465464",
+        "clientes": "852992542681464892",
+        "precos": "853695024533209138"
+    },
+    "roles": {
+        "membro": "847593407303647232",
+        "ceo": "844318531876814928",
+        "cliente": "849889893924208680"
+    },
+    "scripts": {
+        "st_exchange": {
+            "id": "848087383065100308",
+            "name": "st_exchange",
+            "value": 150,
+            "image": "https://cdn.discordapp.com/attachments/849892746856759297/853099953706500106/bitcoin.png"
+        },
+        "st_gangzone": {
+            "id": "852767889735155722",
+            "name": "st_gangzone",
+            "value": 300,
+            "image": "https://cdn.discordapp.com/attachments/849892746856759297/853103121361928202/virus.png"
+        }
+    },
+    "payment": {
+        "pix": {
+            "id": "48628885854",
+            "confirm": "Mateus Sousa Lima"
+        },
+        "mpago": {
+            "id": "souzalimamateus@gmail.com",
+            "confirm": "Mateus Sousa Lima"
+        },
+        "paypal": {
+            "id": "souzalimamateus@gmail.com",
+            "confirm": "Mateus Sousa"
+        },
+        "picpay": {
+            "id": "@Mat0pi",
+            "confirm": "Mateus Sousa"
+        }
+    },
+    "customer": [
+        "45452452453",
+        "asdadsa"
+    ]
+
+}
